@@ -1,6 +1,6 @@
 # E-mail-and-SMS-Spam-Detection
 
-![App Screenshot](screenshots/app_screenshot.png)
+![App Screenshot](screenshots/app_screenshots.png)
 
 This is a **web-based Email/SMS Spam Classifier** built using **Streamlit** and **scikit-learn**.  
 It allows users to input an email or SMS message and predicts whether it is **Spam** or **Not Spam** using a trained **Multinomial Naive Bayes** model.
